@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
 
         System.out.println("hello master");
+        System.out.println("commit 1 i");
     }
 }
