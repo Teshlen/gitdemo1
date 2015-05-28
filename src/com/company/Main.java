@@ -8,5 +8,8 @@ public class Main {
         System.out.println("hello master");
         System.out.println("commit 1 i");
         System.out.println("commit 2 i");
+
+        System.out.println("commit 3 i");
+
     }
 }
